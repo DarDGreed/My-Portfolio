@@ -255,7 +255,6 @@ export default function Skills() {
                 <FileCode size={12} />
                 Bachelor of Science in Information Technology
               </span>
-              <span>CERTIFIED_EXPERTISE</span>
             </div>
 
           </div>
